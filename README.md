@@ -200,3 +200,6 @@ This repository serves as the official landing page for Escape Simulator: Wild W
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Escape Simulator: Wild West DLC today!**
+
+---
+**Last updated:** 2026-11-06 00:39:43 UTC
