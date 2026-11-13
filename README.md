@@ -202,4 +202,4 @@ This repository serves as the official landing page for Escape Simulator: Wild W
 **Get the most recent version of Escape Simulator: Wild West DLC today!**
 
 ---
-**Last updated:** 2026-11-13 04:33:16 UTC
+**Last updated:** 2026-11-13 12:46:30 UTC
